@@ -1,0 +1,198 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "book1",
+      "price": 100,
+      "count": 2
+    },
+    {
+      "id": 2,
+      "name": "book2",
+      "price": 45,
+      "count": 1
+    },
+    {
+      "getters": {},
+      "state": {
+        "url": "http://localhost:3000/books",
+        "title": "this is title",
+        "books": [
+          {
+            "id": 1,
+            "name": "book1",
+            "price": 100,
+            "count": 2
+          },
+          {
+            "id": 2,
+            "name": "book2",
+            "price": 45,
+            "count": 1
+          }
+        ]
+      },
+      "rootGetters": {},
+      "rootState": {
+        "url": "http://localhost:3000/books",
+        "title": "this is title",
+        "books": [
+          {
+            "id": 1,
+            "name": "book1",
+            "price": 100,
+            "count": 2
+          },
+          {
+            "id": 2,
+            "name": "book2",
+            "price": 45,
+            "count": 1
+          }
+        ]
+      },
+      "id": 3
+    },
+    {
+      "getters": {},
+      "state": {
+        "url": "http://localhost:3000/books",
+        "title": "this is title",
+        "books": [
+          {
+            "id": 1,
+            "name": "book1",
+            "price": 100,
+            "count": 2
+          },
+          {
+            "id": 2,
+            "name": "book2",
+            "price": 45,
+            "count": 1
+          },
+          {
+            "getters": {},
+            "state": {
+              "url": "http://localhost:3000/books",
+              "title": "this is title",
+              "books": [
+                {
+                  "id": 1,
+                  "name": "book1",
+                  "price": 100,
+                  "count": 2
+                },
+                {
+                  "id": 2,
+                  "name": "book2",
+                  "price": 45,
+                  "count": 1
+                }
+              ]
+            },
+            "rootGetters": {},
+            "rootState": {
+              "url": "http://localhost:3000/books",
+              "title": "this is title",
+              "books": [
+                {
+                  "id": 1,
+                  "name": "book1",
+                  "price": 100,
+                  "count": 2
+                },
+                {
+                  "id": 2,
+                  "name": "book2",
+                  "price": 45,
+                  "count": 1
+                }
+              ]
+            },
+            "id": 3
+          }
+        ]
+      },
+      "rootGetters": {},
+      "rootState": {
+        "url": "http://localhost:3000/books",
+        "title": "this is title",
+        "books": [
+          {
+            "id": 1,
+            "name": "book1",
+            "price": 100,
+            "count": 2
+          },
+          {
+            "id": 2,
+            "name": "book2",
+            "price": 45,
+            "count": 1
+          },
+          {
+            "getters": {},
+            "state": {
+              "url": "http://localhost:3000/books",
+              "title": "this is title",
+              "books": [
+                {
+                  "id": 1,
+                  "name": "book1",
+                  "price": 100,
+                  "count": 2
+                },
+                {
+                  "id": 2,
+                  "name": "book2",
+                  "price": 45,
+                  "count": 1
+                }
+              ]
+            },
+            "rootGetters": {},
+            "rootState": {
+              "url": "http://localhost:3000/books",
+              "title": "this is title",
+              "books": [
+                {
+                  "id": 1,
+                  "name": "book1",
+                  "price": 100,
+                  "count": 2
+                },
+                {
+                  "id": 2,
+                  "name": "book2",
+                  "price": 45,
+                  "count": 1
+                }
+              ]
+            },
+            "id": 3
+          }
+        ]
+      },
+      "id": 4
+    },
+    {
+      "name": "dsfdsf",
+      "price": "",
+      "count": "",
+      "id": 5
+    },
+    {
+      "name": "dfdsf",
+      "price": "",
+      "count": "",
+      "id": 6
+    },
+    {
+      "name": "dffds",
+      "price": "2",
+      "count": "3",
+      "id": 7
+    }
+  ]
+}
